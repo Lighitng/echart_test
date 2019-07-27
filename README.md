@@ -1,7 +1,5 @@
 ### Usage
-
-This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
-
+## 快速启动
 ``` bash
 # install dependencies
 npm install
@@ -18,10 +16,3 @@ npm run build
 
 Modern browsers and Internet Explorer 10+.
 
-### snapshots
-![image](https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/login.png)
-![image](https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/main.png)
-![image](https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/edit.jpg)
-
-### License
-[MIT](http://opensource.org/licenses/MIT)
